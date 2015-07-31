@@ -1,0 +1,13 @@
+A GIT TUTORIAL WHERE YOU UNDERSTAND WHAT HAPPEN
+
+Git is an ufo for who didn’t hear about software versioning. More, you use the command-line. It could be a lot when you begin. Take your time and follow the tuto. Also good for a review, so don’t get stuck, learn it step by step.
+
+http://nodeschool.io/fr-fr/index.html#workshoppers
+
+Go to the git-it project.
+
+You need node and npm installed on you machine first.
+
+Then just put the followed command-line in your terminal : npm install -g git-it
+
+enjoy.
