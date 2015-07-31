@@ -1,0 +1,5 @@
+BEGIN TO LEARN JAVASCRIPT AND NODE
+
+Hi there, ok. I discover the NodeSchool. Here you’ll find tutorials for Javascript (bases), and Node and other cool stuff. I recommend the tuto javascripting for anyone who begins with coding too. It’s really bases of syntax. For discovering more fonctionalities of the language go on KhanAcademy, for a small training it’s also good to visit CodeAcademy.
+
+All are free.
